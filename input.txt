@@ -1,0 +1,10 @@
+area-add#Area GD722#10#motorcycle
+area-add#Area Rektorat#5#car
+vehicle-add#BK1234AB#Chandro Pardede#car
+vehicle-add#BB9988XY#Budi Santoso#motorcycle
+vehicle-add#B123CD#Andi Wijaya#car
+park#BK1234AB#Area Rektorat
+park#B123CD#Area Rektorat
+park#BB9988XY#Area GD722
+display-all
+
